@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0238-product-of-array-except-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0697-degree-of-an-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0033-search-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
