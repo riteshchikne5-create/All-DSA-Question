@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
 | [0952-largest-component-size-by-common-factor](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0952-largest-component-size-by-common-factor) |
 ## Recursion
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0136-single-number) |
 ## Prefix Sum
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/1929-concatenation-of-array) |
 ## Union-Find
 |  |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
