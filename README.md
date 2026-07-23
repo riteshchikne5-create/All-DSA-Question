@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
