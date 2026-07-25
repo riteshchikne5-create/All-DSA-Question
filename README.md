@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
 | [0952-largest-component-size-by-common-factor](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0952-largest-component-size-by-common-factor) |
+| [3536-maximum-product-of-two-digits](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -82,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0075-sort-colors) |
+| [3536-maximum-product-of-two-digits](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
