@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
 | [0952-largest-component-size-by-common-factor](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0952-largest-component-size-by-common-factor) |
