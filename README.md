@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
 ## Linked List
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0088-merge-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3536-maximum-product-of-two-digits) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
