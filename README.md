@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
 | [0952-largest-component-size-by-common-factor](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0952-largest-component-size-by-common-factor) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0013-roman-to-integer) |
 | [0697-degree-of-an-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0697-degree-of-an-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0952-largest-component-size-by-common-factor) |
 ## Simulation
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
 ## Linked List
