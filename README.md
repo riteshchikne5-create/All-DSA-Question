@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
 | [0952-largest-component-size-by-common-factor](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0952-largest-component-size-by-common-factor) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
