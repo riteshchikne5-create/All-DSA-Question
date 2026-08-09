@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0069-sqrtx) |
 | [0952-largest-component-size-by-common-factor](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0952-largest-component-size-by-common-factor) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3536-maximum-product-of-two-digits) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
