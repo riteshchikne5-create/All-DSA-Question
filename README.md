@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0069-sqrtx) |
 | [0952-largest-component-size-by-common-factor](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0952-largest-component-size-by-common-factor) |
+| [1510-stone-game-iv](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1510-stone-game-iv](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/1510-stone-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,4 +167,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0069-sqrtx) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
