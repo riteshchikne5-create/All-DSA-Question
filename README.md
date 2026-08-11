@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0896-monotonic-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0952-largest-component-size-by-common-factor) |
 | [1929-concatenation-of-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/1929-concatenation-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0013-roman-to-integer) |
 | [0697-degree-of-an-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0697-degree-of-an-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0952-largest-component-size-by-common-factor) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0561-array-partition) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3731-find-missing-elements) |
 ## Stack
