@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0952-largest-component-size-by-common-factor) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0067-add-binary) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
 | ------- |
