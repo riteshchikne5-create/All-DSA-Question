@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0561-array-partition) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/riteshchikne5-create/All-DSA-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
